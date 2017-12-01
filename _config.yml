@@ -1,0 +1,5 @@
+include: [ .htaccess ]
+exclude: [ src ]
+encoding: utf-8
+
+
