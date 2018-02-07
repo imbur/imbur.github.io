@@ -31,16 +31,11 @@ public class BibFixer {
 		StringBuilder builder = new StringBuilder();
 
 		/*
-		 * Fixing and formatting my name
+		 * Read the file contents
 		 */ 
-
 		try (BufferedReader r = Files.newBufferedReader(f.toPath())) {
 			r.lines().forEach(s -> {
-				builder.append(
-					s
-					.replace("Márton Búr", DESIRED_EMPH_NAME)
-					.replace("———",DESIRED_EMPH_NAME)
-					.replace("Búr, Márton", DESIRED_EMPH_NAME)).append(LINE_SEPARATOR);
+				builder.append(s).append(LINE_SEPARATOR);
 			});
 		}
 		String newFileContents = builder.toString().replaceAll("<span class=\"citation\">.*</span>", "");
@@ -113,7 +108,13 @@ public class BibFixer {
 
 		publicationsBuilder.append(PUBLICATIONS_TAG_CLOSE).append(LINE_SEPARATOR);
 
-		newFileContents = newFileContents.replace(PUBLICATIONS_TAG_OPEN+LINE_SEPARATOR+PUBLICATIONS_TAG_CLOSE,publicationsBuilder.toString());
+		newFileContents = newFileContents.replace(
+			PUBLICATIONS_TAG_OPEN+LINE_SEPARATOR+PUBLICATIONS_TAG_CLOSE,
+			publicationsBuilder.toString()
+					.replace("Márton Búr", DESIRED_EMPH_NAME)
+					.replace("———",DESIRED_EMPH_NAME)
+					.replace("Búr, Márton", DESIRED_EMPH_NAME)
+		);
 
 		/*
 		 * Rename tmp file's name to old file name thus replacing its old contents
