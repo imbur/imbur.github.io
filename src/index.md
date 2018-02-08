@@ -7,17 +7,17 @@ Ph.D. student at McGill University
 
 
 
--------------------------------------- -----------------------------------------------------------------------------------------
-![Marton Bur](images/marton-bur.png)   [Department of Electrical and Computer Engineering](https://www.mcgill.ca/ece/)<br/>
-                                       [McGill University](https://www.mcgill.ca/)<br/>
-                                       <br/>
-                                       McConnell Building 735<br/>
-                                       3480 University Street<br/>
-                                       Montreal, QC, H3A 0E9<br/>
-                                       <br/>
-                                       marton.bur (at) mail.mcgill.ca
+-------------------------------------- ------- -------------------------------------------------------------------------------------------------------
+![Marton Bur](images/marton-bur.png)    <br/>  [Department of Electrical and Computer Engineering](https://www.mcgill.ca/ece/)<br/>
+                                               [McGill University](https://www.mcgill.ca/)<br/>
+                                               <br/>
+                                               McConnell Building 735<br/>
+                                               3480 University Street<br/>
+                                               Montreal, QC, H3A 0E9<br/>
+                                               <br/>
+                                               marton.bur (at) mail.mcgill.ca
 
---------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 I am currently a PhD student in Software Engineering at McGill University under the supervision of [Dániel Varró](https://www.mcgill.ca/ece/daniel-varro).
 
