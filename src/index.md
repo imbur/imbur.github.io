@@ -35,6 +35,8 @@ I earned my MSc degree in Computer Engineering in January 2016 at Budapest Unive
 
 ### List of publications: 
 
+[Click here to see my list of publications on DBLP.](http://dblp.uni-trier.de/pers/hd/b/B=uacute=r:M=aacute=rton)
+
 ---
 nocite: '@*'
 ...
