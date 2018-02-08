@@ -26,8 +26,8 @@ I earned my MSc degree in Computer Engineering in January 2016 at Budapest Unive
 
 ### Research interests
 
- * Models@run.time
  * Runtime monitoring of distributed cyber-physical systems
+ * Models@run.time for cyber-physical systems
  * Local search-based graph pattern matching
  * Model-based software engineering
 
