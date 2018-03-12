@@ -1,0 +1,13 @@
+:page-layout: page
+:page-permalink: /publications/
+= Publications
+
+link:http://dblp.uni-trier.de/pers/hd/b/B=uacute=r:M=aacute=rton[List of my publications on DBLP.]
+
+link:https://scholar.google.ca/citations?user=ipzVvYsAAAAJ&hl=en[My google scholar profile]
+
+== List of publications
+
++++++
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fimbur%2Fimbur.github.io%2Fmaster%2Fsrc%2Fmybibentries.bib&jsonp=1"></script> 
++++++

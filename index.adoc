@@ -1,0 +1,53 @@
+:page-layout: home
+:page-permalink: /
+= Home
+:uri-mcgill: https://www.mcgill.ca/
+:uri-ece: https://www.mcgill.ca/ece/
+
+[cols="x,2x", options="none"]
+|================
+
+|image:images/marton-bur.png[Marton Bur, width="200px"] 
+|{uri-ece}[Department of Electrical and Computer Engineering] +
+{uri-mcgill}[McGill University] + 
+
+McConnell Building 735 +
+3480 University Street + 
+Montreal, QC, H3A 0E9 +
+Canada
+
+|================
+
+== Short Bio
+
+I am currently a PhD student in software engineering at McGill University under the supervision of link:https://www.mcgill.ca/ece/daniel-varro[Dániel Varró]
+
+I earned my MSc degree in Computer Engineering in January 2016 at link:https://www.bme.hu/[Budapest University of Technology and Economics (BME)]. Before coming to McGill University, link:https://inf.mit.bme.hu/en/members/burm[I pursued PhD studies] in Software Engineering at BME and I worked at the link:https://inf.mit.bme.hu/en/[Fault Tolerant Systems Research Group]. I received my BSc degree in Computer Engineering in January 2014 at BME.
+
+
+== Main Research Interests
+
+ * Runtime monitoring of distributed cyber-physical systems
+ * \Models@run.time for IoT and cyber-physical systems
+ * Local search-based graph pattern matching
+ * Model-based software engineering
+
+== Teaching Activities
+ 
+ * Winter 2018: teaching assistant in the undergraduate course link:https://www.mcgill.ca/study/2017-2018/courses/ECSE-321[Introduction to Software Engineering] at McGill University.
+ * Between 2011-2017 I have served as a teaching assisstant for several undergraduate courses at BME, including link:https://portal.vik.bme.hu/kepzes/targyak/VIMIA401/en/[Systems Modeling], link:https://portal.vik.bme.hu/kepzes/targyak/VITMAB00/en/[Database Theory], link:https://portal.vik.bme.hu/kepzes/targyak/VIAUA372/en/[IT Engineering Laboratory], link:https://portal.vik.bme.hu/kepzes/targyak/VIMIAC01/en/[Systems Engineering].
+ 
+== Project involvements 
+ * link:https://modes3.inf.mit.bme.hu/[MoDeS3]: Model-Based Demonstrator for Smart and Safe Cyber-Physical Systems.
+ * link:https://eclipse.org/viatra/[VIATRA]: a high performance graph search framework for EMF models. The project is maintained by the Eclipse Foundation. 
+ * link:https://github.com/viatra/massif[Massif]: Matlab-Simulink Integration Framework for Eclipse. 
+ * link:http://www.mondo-project.org/[MONDO]: this project aims to develop model-based development tools that are able to tackle scalability needs in MDE. 
+ 
+== Selected Awards and Scholarships 
+ 
+ * link:https://www.mcgill.ca/engineering/students/graduate-students/funding/meda[McGill Engineering Doctoral Award (MEDA)] recipient (2017-2018).
+ * Participant of link:http://www.huawei.com/en/about-huawei/sustainability/win-win-development/social-contribution/seeds-for-the-future/hungary[Huawei Hungary Seeds for the Future 2015] program.
+ * Visiting graduate student at link:http://keysoftlab.nju.edu.cn/main.htm[State Key Laboratory for Novel Software Technology] at Nanjing University in July 2015. (Research Group website is in Chinese.)
+ * Morgan Stanley Teaching Assistant Scholarship (between 2014 and 2017). (Hungarian website of the 2017 edition is link:http://proprogressio.hu/morgan-stanley-osztondij-program-bsc-es-msc-hallgatok-reszere-2017-09-10/[available here].)
+ * Recipient of the Fellowship Granted by the Republic (three consecutive academic years between 2013-2015; granted by the Education Minister of Hungary).
+ * Earning Honorable Mention in the finals of link:http://www.digilentdesigncontest.com/2013-europe.html[Digilent Design Contest Europe 2013] with the project _Art on the Two Wheels_.
