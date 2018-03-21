@@ -2,7 +2,7 @@
 :page-permalink: /publications/
 = Publications
 
-link:http://dblp.uni-trier.de/pers/hd/b/B=uacute=r:M=aacute=rton[List of my publications on DBLP.]
+link:http://dblp.uni-trier.de/pers/hd/b/B=uacute=r:M=aacute=rton[List of my publications on DBLP]
 
 link:https://scholar.google.ca/citations?user=ipzVvYsAAAAJ&hl=en[My google scholar profile]
 
