@@ -3,6 +3,9 @@ rvm:
 - 2.2.5
 sudo: false
 script: bundle exec rake deploy
+branches:
+  only:
+  - content
 env:
   global:
     - GH_REF: github.com/imbur/imbur.github.io
