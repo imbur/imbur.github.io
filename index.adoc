@@ -4,6 +4,7 @@
 :uri-mcgill: https://www.mcgill.ca/
 :uri-ece: https://www.mcgill.ca/ece/
 
+
 [cols="x,2x", options="none"]
 |================
 
