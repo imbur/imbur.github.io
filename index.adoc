@@ -35,7 +35,7 @@ I earned my MSc degree in Computer Engineering in January 2016 at link:https://w
 == Teaching Activities
  
  * Winter 2018: teaching assistant in the undergraduate course link:https://www.mcgill.ca/study/2017-2018/courses/ECSE-321[Introduction to Software Engineering] at McGill University.
- * Between 2011-2017 I have served as a teaching assisstant for several undergraduate courses at BME, including link:https://portal.vik.bme.hu/kepzes/targyak/VIMIA401/en/[Systems Modeling], link:https://portal.vik.bme.hu/kepzes/targyak/VITMAB00/en/[Database Theory], link:https://portal.vik.bme.hu/kepzes/targyak/VIAUA372/en/[IT Engineering Laboratory], link:https://portal.vik.bme.hu/kepzes/targyak/VIMIAC01/en/[Systems Engineering].
+ * Between 2011-2017 teaching assisstant in several undergraduate courses at BME, including link:https://portal.vik.bme.hu/kepzes/targyak/VIMIA401/en/[Systems Modeling], link:https://portal.vik.bme.hu/kepzes/targyak/VITMAB00/en/[Database Theory], link:https://portal.vik.bme.hu/kepzes/targyak/VIAUA372/en/[IT Engineering Laboratory], link:https://portal.vik.bme.hu/kepzes/targyak/VIMIAC01/en/[Systems Engineering].
  
 == Project involvements 
  * link:https://modes3.inf.mit.bme.hu/[MoDeS3]: Model-Based Demonstrator for Smart and Safe Cyber-Physical Systems.
