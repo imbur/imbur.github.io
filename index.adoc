@@ -35,8 +35,9 @@ I earned my MSc degree in Computer Engineering in January 2016 at link:https://w
 
 == Teaching Activities
  
- * Winter 2018: teaching assistant in the undergraduate course link:https://www.mcgill.ca/study/2017-2018/courses/ECSE-321[Introduction to Software Engineering] at McGill University.
- * Between 2011-2017 teaching assisstant in several undergraduate courses at BME, including link:https://portal.vik.bme.hu/kepzes/targyak/VIMIA401/en/[Systems Modeling], link:https://portal.vik.bme.hu/kepzes/targyak/VITMAB00/en/[Database Theory], link:https://portal.vik.bme.hu/kepzes/targyak/VIAUA372/en/[IT Engineering Laboratory], link:https://portal.vik.bme.hu/kepzes/targyak/VIMIAC01/en/[Systems Engineering].
+ * Winter 2018: teaching assistant in the undergraduate course link:https://www.mcgill.ca/study/2017-2018/courses/ECSE-321[Introduction to Software Engineering (ECSE321)] at McGill University.
+ * 2016--2017: lecturer of Financial Algorithms: Foundations of Java Programming at Corvinus University of Budapest.
+ * 2011--2017: teaching assisstant in several undergraduate courses at BME, including link:https://portal.vik.bme.hu/kepzes/targyak/VIMIA401/en/[Systems Modeling], link:https://portal.vik.bme.hu/kepzes/targyak/VITMAB00/en/[Database Theory], link:https://portal.vik.bme.hu/kepzes/targyak/VIAUA372/en/[IT Engineering Laboratory], link:https://portal.vik.bme.hu/kepzes/targyak/VIMIAC01/en/[Systems Engineering].
  
 == Project involvements 
  * link:https://modes3.inf.mit.bme.hu/[MoDeS3]: Model-Based Demonstrator for Smart and Safe Cyber-Physical Systems.
@@ -46,9 +47,9 @@ I earned my MSc degree in Computer Engineering in January 2016 at link:https://w
  
 == Selected Awards and Scholarships 
  
- * link:https://www.mcgill.ca/engineering/students/graduate-students/funding/meda[McGill Engineering Doctoral Award (MEDA)] recipient (2017-2018).
+ * link:https://www.mcgill.ca/engineering/students/graduate-students/funding/meda[McGill Engineering Doctoral Award (MEDA)] recipient (2017--2018).
  * Participant of link:http://www.huawei.com/en/about-huawei/sustainability/win-win-development/social-contribution/seeds-for-the-future/hungary[Huawei Hungary Seeds for the Future 2015] program.
  * Visiting graduate student at link:http://keysoftlab.nju.edu.cn/main.htm[State Key Laboratory for Novel Software Technology] at Nanjing University in July 2015. (Research Group website is in Chinese.)
- * Morgan Stanley Teaching Assistant Scholarship (between 2014 and 2017). (Hungarian website of the 2017 edition is link:http://proprogressio.hu/morgan-stanley-osztondij-program-bsc-es-msc-hallgatok-reszere-2017-09-10/[available here].)
- * Recipient of the Fellowship Granted by the Republic (three consecutive academic years between 2013-2015; granted by the Education Minister of Hungary).
- * Earning Honorable Mention in the finals of link:http://www.digilentdesigncontest.com/2013-europe.html[Digilent Design Contest Europe 2013] with the project _Art on the Two Wheels_.
+ * Morgan Stanley Teaching Assistant Scholarship (2014--2017). (Hungarian website of the 2017 edition is link:http://proprogressio.hu/morgan-stanley-osztondij-program-bsc-es-msc-hallgatok-reszere-2017-09-10/[available here].)
+ * Recipient of the Fellowship Granted by the Republic granted by the Education Minister of Hungary (2013--2015).
+ * Honorable Mention won in the finals of link:http://www.digilentdesigncontest.com/2013-europe.html[Digilent Design Contest Europe 2013] with the project _Art on the Two Wheels_.
