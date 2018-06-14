@@ -46,10 +46,13 @@ I earned my MSc degree in Computer Engineering in January 2016 at link:https://w
  * link:http://www.mondo-project.org/[MONDO]: this project aims to develop model-based development tools that are able to tackle scalability needs in MDE. 
  
 == Selected Awards and Scholarships 
- 
- * link:https://www.mcgill.ca/engineering/students/graduate-students/funding/meda[McGill Engineering Doctoral Award (MEDA)] recipient (2017--2018).
- * Participant of link:http://www.huawei.com/en/about-huawei/sustainability/win-win-development/social-contribution/seeds-for-the-future/hungary[Huawei Hungary Seeds for the Future 2015] program.
+
+ * link:https://www.etaps.org/[EASST Best Paper Award] at FASE 2018 for the paper _Distributed Graph Queries for Runtime Monitoring of Cyber-Physical Systems._ Authors: Márton Búr, Gábor Szilágyi, András Vörös and Dániel Varró.
+ * link:https://www.etaps.org/index.php/2018/etaps-2018-student-scholarships[ETAPS 2018 Student Scholarship]. 
+ * link:https://www.mcgill.ca/gps/funding/fac-staff/awards/great[Graduate Research Enhancement and Travel (GREAT) Award] (Winter 2018).
+ * link:https://www.mcgill.ca/engineering/students/graduate/funding/meda/meda-recipients[McGill Engineering Doctoral Award (MEDA)] (2017-2018).
+ * link:http://www.huawei.com/en/about-huawei/sustainability/win-win-development/social-contribution/seeds-for-the-future/hungary[Huawei Hungary Seeds for the Future] program participant (2015).
  * Visiting graduate student at link:http://keysoftlab.nju.edu.cn/main.htm[State Key Laboratory for Novel Software Technology] at Nanjing University in July 2015. (Research Group website is in Chinese.)
- * Morgan Stanley Teaching Assistant Scholarship (2014--2017). (Hungarian website of the 2017 edition is link:http://proprogressio.hu/morgan-stanley-osztondij-program-bsc-es-msc-hallgatok-reszere-2017-09-10/[available here].)
- * Recipient of the Fellowship Granted by the Republic granted by the Education Minister of Hungary (2013--2015).
- * Honorable Mention won in the finals of link:http://www.digilentdesigncontest.com/2013-europe.html[Digilent Design Contest Europe 2013] with the project _Art on the Two Wheels_.
+ * Morgan Stanley Teaching Assistant Scholarship (2014-2017). (Hungarian website of the 2017 edition is link:http://proprogressio.hu/morgan-stanley-osztondij-program-bsc-es-msc-hallgatok-reszere-2017-09-10/[available here].)
+ * Recipient of the Fellowship Granted by the Republic granted by the Education Minister of Hungary (2013-2015).
+ * Honorable Mention at link:http://www.digilentdesigncontest.com/2013-europe.html[Digilent Design Contest Europe 2013] (project: _Art on the Two Wheels_).
