@@ -9,5 +9,5 @@ link:https://scholar.google.ca/citations?user=ipzVvYsAAAAJ&hl=en[My google schol
 == List of publications
 
 +++++
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fimbur%2Fimbur.github.io%2Fmaster%2Fsrc%2Fmybibentries.bib&jsonp=1"></script> 
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fimbur%2Fimbur.github.io%2Fcontent%2Fmarton-bur-bibliography.bib&jsonp=1"></script> 
 +++++
