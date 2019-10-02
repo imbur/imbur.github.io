@@ -35,7 +35,7 @@ I earned my MSc degree in Computer Engineering in January 2016 at link:https://w
 
 == Teaching Activities
  
- * Fall 2019: head teaching assistant in the undergraduate courses link:https://www.mcgill.ca/study/2018-2019/courses/ecse-321[Introduction to Software Engineering (ECSE321)] and teaching assistant in link:https://www.mcgill.ca/study/2018-2019/courses/ecse-223[Model-Based Programming (ECSE223)] at McGill University.
+ * Fall 2019: head teaching assistant in the undergraduate courses link:https://www.mcgill.ca/study/2018-2019/courses/ecse-321[Introduction to Software Engineering (ECSE321)] and teaching assistant in link:https://www.mcgill.ca/study/2019-2020/courses/ecse-223[Model-Based Programming (ECSE223)] at McGill University.
  * Winter 2019: head teaching assistant in the undergraduate course link:https://www.mcgill.ca/study/2018-2019/courses/ecse-321[Introduction to Software Engineering (ECSE321)] and teaching assistant in link:https://www.mcgill.ca/study/2018-2019/courses/ecse-223[Model-Based Programming (ECSE223)] at McGill University.
  * Fall 2018: head teaching assistant in undergraduate courses link:https://www.mcgill.ca/study/2018-2019/courses/ecse-321[Introduction to Software Engineering (ECSE321)] and link:https://www.mcgill.ca/study/2018-2019/courses/ecse-429[Software Validation (ECSE429)] at McGill University.
  * Winter 2018: teaching assistant in the undergraduate course link:https://www.mcgill.ca/study/2017-2018/courses/ECSE-321[Introduction to Software Engineering (ECSE321)] at McGill University.
