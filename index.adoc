@@ -35,7 +35,9 @@ I earned my MSc degree in Computer Engineering in January 2016 at link:https://w
 
 == Teaching Activities
  
- * Fall 2018: head teaching assistant in the undergraduate courses link:https://www.mcgill.ca/study/2018-2019/courses/ecse-321[Introduction to Software Engineering (ECSE321)] and link:https://www.mcgill.ca/study/2018-2019/courses/ecse-429[Software Validation (ECSE429)] at McGill University.
+ * Fall 2019: head teaching assistant in the undergraduate courses link:https://www.mcgill.ca/study/2018-2019/courses/ecse-321[Introduction to Software Engineering (ECSE321)] and teaching assistant in link:https://www.mcgill.ca/study/2018-2019/courses/ecse-223[Model-Based Programming (ECSE223)] at McGill University.
+ * Winter 2019: head teaching assistant in the undergraduate course link:https://www.mcgill.ca/study/2018-2019/courses/ecse-321[Introduction to Software Engineering (ECSE321)] and teaching assistant in link:https://www.mcgill.ca/study/2018-2019/courses/ecse-223[Model-Based Programming (ECSE223)] at McGill University.
+ * Fall 2018: head teaching assistant in undergraduate courses link:https://www.mcgill.ca/study/2018-2019/courses/ecse-321[Introduction to Software Engineering (ECSE321)] and link:https://www.mcgill.ca/study/2018-2019/courses/ecse-429[Software Validation (ECSE429)] at McGill University.
  * Winter 2018: teaching assistant in the undergraduate course link:https://www.mcgill.ca/study/2017-2018/courses/ECSE-321[Introduction to Software Engineering (ECSE321)] at McGill University.
  * 2016--2017: lecturer of Financial Algorithms: Foundations of Java Programming at Corvinus University of Budapest.
  * 2011--2017: teaching assisstant in several undergraduate courses at BME, including link:https://portal.vik.bme.hu/kepzes/targyak/VIMIA401/en/[Systems Modeling], link:https://portal.vik.bme.hu/kepzes/targyak/VITMAB00/en/[Database Theory], link:https://portal.vik.bme.hu/kepzes/targyak/VIAUA372/en/[IT Engineering Laboratory], link:https://portal.vik.bme.hu/kepzes/targyak/VIMIAC01/en/[Systems Engineering].
