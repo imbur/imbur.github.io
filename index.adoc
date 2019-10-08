@@ -19,8 +19,6 @@ Canada
 
 |================
 
-== Short Bio
-
 I am currently a PhD student in software engineering at McGill University under the supervision of link:https://www.mcgill.ca/ece/daniel-varro[Dániel Varró].
 
 I earned my MSc degree in Computer Engineering in January 2016 at link:https://www.bme.hu/[Budapest University of Technology and Economics (BME)]. Before coming to McGill University, link:https://inf.mit.bme.hu/en/members/burm[I pursued PhD studies] in Software Engineering at BME and I worked at the link:https://inf.mit.bme.hu/en/[Fault Tolerant Systems Research Group]. I received my BSc degree in Computer Engineering in January 2014 at BME.
