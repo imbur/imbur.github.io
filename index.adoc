@@ -1,23 +1,10 @@
 :page-layout: home
 :page-permalink: /
-= Home
 :uri-mcgill: https://www.mcgill.ca/
 :uri-ece: https://www.mcgill.ca/ece/
+= Home
 
-
-[cols="x,2x", options="none"]
-|================
-
-|image:images/marton-bur.png[Marton Bur, width="200px"] 
-|{uri-ece}[Department of Electrical and Computer Engineering] +
-{uri-mcgill}[McGill University] + 
-
-McConnell Building 735 +
-3480 University Street + 
-Montreal, QC, H3A 0E9 +
-Canada
-
-|================
+image:images/marton-bur.png[Marton Bur, width="200px"]
 
 I am currently a PhD student in software engineering at McGill University under the supervision of link:https://www.mcgill.ca/ece/daniel-varro[Dániel Varró].
 
@@ -58,3 +45,14 @@ I earned my MSc degree in Software Engineering in January 2016 at link:https://w
  * Morgan Stanley Teaching Assistant Scholarship (2014-2017). (Hungarian website of the 2017 edition is link:http://proprogressio.hu/morgan-stanley-osztondij-program-bsc-es-msc-hallgatok-reszere-2017-09-10/[available here].)
  * Recipient of the Fellowship Granted by the Republic granted by the Education Minister of Hungary (2013, 2014, 2015).
  * Honorable Mention at link:http://www.digilentdesigncontest.com/2013-europe.html[Digilent Design Contest Europe 2013] (project: _Art on the Two Wheels_).
+
+== University Address
+
+{uri-ece}[Department of Electrical and Computer Engineering] +
+{uri-mcgill}[McGill University]
+
+McConnell Building Room 735 +
+3480 University Street + 
+Montreal, QC, H3A 0E9 +
+Canada
+
