@@ -44,7 +44,7 @@ I earned my MSc degree in Software Engineering in January 2016 at the link:http:
  * Visiting graduate student at link:http://keysoftlab.nju.edu.cn/main.htm[State Key Laboratory for Novel Software Technology] at Nanjing University in July 2015. (Research Group website is in Chinese.)
  * Morgan Stanley Teaching Assistant Scholarship (2014-2017). (Hungarian website of the 2017 edition is link:http://proprogressio.hu/morgan-stanley-osztondij-program-bsc-es-msc-hallgatok-reszere-2017-09-10/[available here].)
  * Recipient of the Fellowship Granted by the Republic granted by the Education Minister of Hungary (2013, 2014, 2015).
- * Honorable Mention at link:http://www.digilentdesigncontest.com/2013-europe.html[Digilent Design Contest Europe 2013] (project: _Art on the Two Wheels_).
+ * Honorable Mention at link:https://digilentdesigncontest.com/2013-eu/[Digilent Design Contest Europe 2013] (project: _Art on the Two Wheels_).
 
 == University Address
 
