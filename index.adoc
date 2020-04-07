@@ -36,6 +36,7 @@ I earned my MSc degree in Software Engineering in January 2016 at the link:http:
  
 == Selected Awards and Scholarships 
 
+ * link:https://www.mcgill.ca/engineering/faculty-staff/teaching-research-and-service-awards/teaching-assistant-awards[Outstanding Teaching Assistant Award] at McGill University, Faculty of Engineering. _This award is given for up to three teaching assistants each semester working at the Faculty of Engineering._
  * link:https://www.etaps.org/[EASST Best Paper Award] at FASE 2018 for the paper _Distributed Graph Queries for Runtime Monitoring of Cyber-Physical Systems._ Authors: Márton Búr, Gábor Szilágyi, András Vörös and Dániel Varró.
  * link:https://www.etaps.org/index.php/2018/etaps-2018-student-scholarships[ETAPS 2018 Student Scholarship]. 
  * link:https://www.mcgill.ca/gps/funding/fac-staff/awards/great[Graduate Research Enhancement and Travel (GREAT) Award] (2018, 2019).
